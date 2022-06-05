@@ -1,6 +1,5 @@
 import 'package:flash_chat/constants.dart';
 import 'package:flash_chat/custom_widgets.dart';
-import 'package:flash_chat/screens/chat_screen.dart';
 import 'package:flash_chat/screens/login_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
